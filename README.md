@@ -3,7 +3,7 @@ Marine Calcarisporium Genome V1
     Genomic Sequences: Calcarisporium_Genome_Version1.fasta.zip
     protein Sequences: Annotated_Protein_Calcarisporium_Version1.fasta.zip
 
-
+---
 
 ### *Calcarisporium* sp. KF525
 
@@ -13,7 +13,9 @@ Using next-generation sequencing technologies, a high-quality genome assembly of
 
 To assess the activity of these pathways, transcriptomic analysis was performed using RNA sequencing under standard laboratory cultivation conditions. Only a small proportion of the predicted BGCs showed detectable expression, while the majority remained transcriptionally silent. This finding suggests the existence of numerous cryptic biosynthetic pathways that may require specific environmental stimuli or genetic activation strategies for expression.
 
-In addition to secondary metabolism, the genome analysis provided insights into the biological characteristics, ecological adaptations, and lifestyle features of *Calcarisporium* sp. KF525. The extensive collection of novel biosynthetic gene clusters identified in this marine fungus represents a valuable resource for future natural product discovery. These findings establish *Calcarisporium* sp. KF525 as a promising source of previously unknown metabolites with potential pharmaceutical and biotechnological applications and provide an important genomic framework for future functional and comparative studies of marine fungi.
+In addition to secondary metabolism, the genome analysis provided insights into the biological characteristics, ecological adaptations, and lifestyle features of *Calcarisporium* sp. KF525. The extensive collection of novel biosynthetic gene clusters identified in this marine fungus represents a valuable resource for future natural product discovery. These findings establish *Calcarisporium* sp. KF525 as a promising source of previously unknown metabolites with potential pharmaceutical and biotechnological applications and provide an important genomic framework for future functional and comparative studies of marine fungi.---
+
+---
 
 
 Citation:
